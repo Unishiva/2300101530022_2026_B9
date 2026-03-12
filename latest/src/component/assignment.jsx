@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+    <body>
+        <h1>REACT FIRST ASSIGNMENT </h1>
+        <img src="istockphoto-499517325-612x612.jpg" alt="Description of image" width="500px" height="300px">
+    <ul>
+  <li>invent new traffic lights.</li>
+  <li>Second point</li>
+  <li>Third point</li>
+</ul> 
+<button onclick="showsalert()">click me</button>
+<script>
+    function showsalert(){
+        alert("i done to show alert.")
+    }
+</script>
+        </body>
+    </html>
